@@ -13,6 +13,7 @@
     "defaults": {
       // Put settings here that you want to apply to all profiles
       "acrylicOpacity": 0.75,
+      "cursorShape": "bar",
       "fontFace": "Courier New",
       "fontSize": 10,
       "useAcrylic": true
